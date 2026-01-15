@@ -10,6 +10,7 @@
 - [G](#start-of-g)
 - [H](#start-of-h)
 - [L](#start-of-l)
+- [M](#start-of-m)
 - [N](#start-of-n)
 - [O](#start-of-o)
 - [P](#start-of-p)
@@ -47,6 +48,8 @@
 | Learn AI                                                                                 | [Discord › learnaitogether](https://discord.gg/invite/learnaitogether)                                          | Community for learning AI                                                                                            |
 | Lovable                                                                                  | [Discord › rPw2rSFE2K](https://discord.com/invite/rPw2rSFE2K)                                                   | AI-powered customer feedback platform                                                                                |
 | [Lyzr AI](https://aiagentslive.com/agents/1f6e.lyzr-ai-agent-builder)                    | [Discord › P6HCMQ9TRX](https://discord.gg/P6HCMQ9TRX)                                                           | Design, build, and deploy AI agents effortlessly                                                                     |
+| <h2 id="start-of-m">M</h2>                                                               |                                                                                                                 |                                                                                                                      |
+| Monocle2AI                                                                                | [Discord › D8vDbSUhJX](https://discord.gg/D8vDbSUhJX)                                                           | A tool for AI agents tracing and testing with extension available in VS Code/Cursor as well as MCP and SRE agent for RCA |
 | <h2 id="start-of-n">N</h2>                                                               |                                                                                                                 |                                                                                                                      |
 | [n8n](https://aiagentslive.com/agents/3b8a8a.n8n-ai-agent-builder)                       | [Discord › n8n](https://discord.com/invite/n8n)                                                                 | Workflow automation tool                                                                                             |
 | <h2 id="start-of-o">O</h2>                                                               |                                                                                                                 |                                                                                                                      |
